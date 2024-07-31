@@ -18,6 +18,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@azure/static-web-apps-cli": "^2.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
     "postcss": "^8",
